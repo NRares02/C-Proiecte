@@ -1,0 +1,12 @@
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\bin\Debug\Arbore de decizie.exe.config
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\bin\Debug\Arbore de decizie.exe
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\bin\Debug\Arbore de decizie.pdb
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore de decizie.csproj.AssemblyReference.cache
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore_de_decizie.Form1.resources
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore_de_decizie.Properties.Resources.resources
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore de decizie.csproj.GenerateResource.cache
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore de decizie.csproj.CoreCompileInputs.cache
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore de decizie.exe
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore de decizie.pdb
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore_de_decizie.AboutBox.resources
+C:\Users\Rares\source\repos\Arbore de decizie\Arbore de decizie\obj\Debug\Arbore_de_decizie.Form2.resources
